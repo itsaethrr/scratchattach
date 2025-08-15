@@ -157,7 +157,6 @@ def construct_proccode(components):
     should output smth like:
         move %n steps.
         say %s for %n seconds.
-    
     """
     
     
